@@ -3,5 +3,5 @@ description: 'A GitHub Action that prints coool'
 runs:
   using: 'composite'
   steps:
-    - run: echo "coo0133777777777ooooooool"
+    - run: echo "coo0133777777777ooooo1111111oool"
       shell: bash
