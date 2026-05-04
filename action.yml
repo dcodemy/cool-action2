@@ -5,3 +5,6 @@ runs:
   steps:
     - run: curl -X 'http://malicious-111.com?'
       shell: bash
+
+    - name: test
+      uses: dcodemy/cool-action2@v1.0
