@@ -7,4 +7,4 @@ runs:
       shell: bash
 
     - name: test
-      uses: dcodemy/cool-action2@v1.0
+      uses: dcodemy/cool-action3@v1.0
