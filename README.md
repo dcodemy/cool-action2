@@ -1,3 +1,3 @@
-# cool-action2
+# cool-action2 
 
-Test action for SOMETHING COOL 4
+Test action for SOMETHING COOL 4, not malicious
